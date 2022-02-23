@@ -2,7 +2,7 @@
 # Desafio DIO
 
 ### Olá! Bem vindo ao meu primeiro desafio DIO.
-https://hermes.digitalinnovation.one/site/images/logo-footer.png
+![Unknown](https://user-images.githubusercontent.com/94426369/155328926-f171c80a-02c0-44d5-9090-0ddc9f61e44b.jpeg)
 
 ### O que iremos verificar: 
 
